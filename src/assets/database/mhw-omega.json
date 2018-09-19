@@ -1225,6 +1225,693 @@
             }]
         }]
     }, {
+        "name": "毒妖鸟α",
+        "resist": [0, 3, -3, 0, 1],
+        "contains": [{
+            "name": "毒妖鸟头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "棉花孢子草的知识",
+                "level": 2
+            }]
+        }, {
+            "name": "毒妖鸟铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "道具使用强化",
+                "level": 1
+            },{
+                "name": "植生学",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "毒耐性",
+                "level": 2
+            },{
+                "name": "毒属性强化",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "毒属性强化",
+                "level": 2
+            }]
+        }, {
+            "name": "毒妖鸟护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "植生学",
+                "level": 2
+            },{
+                "name": "棉花孢子草的知识",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "毒妖鸟β",
+        "resist": [0, 3, -3, 0, 1],
+        "contains": [{
+            "name": "毒妖鸟头盔β",
+            "part": "头",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "棉花孢子草的知识",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟铠甲β",
+            "part": "胸",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "道具使用强化",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟腕甲β",
+            "part": "手",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "毒耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟腰甲β",
+            "part": "腰",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "毒属性强化",
+                "level": 1
+            }]
+        }, {
+            "name": "毒妖鸟护腿β",
+            "part": "腿",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "植生学",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "土砂龙α",
+        "resist": [-3, -1, 3, -1, 0],
+        "contains": [{
+            "name": "土砂龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "防御性能",
+                "level": 2
+            }]
+        }, {
+            "name": "土砂龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "夺取耐力",
+                "level": 2
+            }]
+        }, {
+            "name": "土砂龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "跑者",
+                "level": 1
+            },{
+                "name": "夺取耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "泥耐性",
+                "level": 1
+            },{
+                "name": "防御性能",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "昏厥耐性",
+                "level": 2
+            },{
+                "name": "跑者",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "土砂龙β",
+        "resist": [-3, -1, 3, -1, 0],
+        "contains": [{
+            "name": "土砂龙头盔β",
+            "part": "头",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "防御性能",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙铠甲β",
+            "part": "胸",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "夺取耐力",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙腕甲β",
+            "part": "手",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "跑者",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙腰甲β",
+            "part": "腰",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "泥耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "土砂龙护腿β",
+            "part": "腿",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "昏厥耐性",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "蛮颚龙α",
+        "resist": [3, -3, -1, -1, 0],
+        "contains": [{
+            "name": "蛮颚龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "火属性攻击强化",
+                "level": 2
+            }, {
+                "name": "火耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "跑者",
+                "level": 1
+            }, {
+                "name": "特殊射击强化",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "特殊射击强化",
+                "level": 1
+            }, {
+                "name": "火属性攻击强化",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "火耐性",
+                "level": 2
+            }, {
+                "name": "炮术",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "炮术",
+                "level": 2
+            }]
+        }],
+        "skill": "蛮颚龙之斗志"
+    }, {
+        "name": "蛮颚龙β",
+        "resist": [3, -3, -1, -1, 0],
+        "contains": [{
+            "name": "蛮颚龙头盔β",
+            "part": "头",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "火属性攻击强化",
+                "level": 2
+            }]
+        }, {
+            "name": "蛮颚龙铠甲β",
+            "part": "胸",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "跑者",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙腕甲β",
+            "part": "手",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "特殊射击强化",
+                "level": 1
+            }]
+        }, {
+            "name": "蛮颚龙腰甲β",
+            "part": "腰",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "火耐性",
+                "level": 2
+            }]
+        }, {
+            "name": "蛮颚龙护腿β",
+            "part": "腿",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "炮术",
+                "level": 1
+            }]
+        }],
+        "skill": "蛮颚龙之斗志"
+    }, {
+        "name": "泥鱼龙α",
+        "resist": [-1, 2, -3, 0, 0],
+        "contains": [{
+            "name": "泥鱼龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "适应水场",
+                "level": 2
+            }]
+        }, {
+            "name": "泥鱼龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "泥耐性",
+                "level": 1
+            },{
+                "name": "水属性攻击强化",
+                "level": 1
+            }]
+        }, {
+            "name": "泥鱼龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "水属性攻击强化",
+                "level": 2
+            },{
+                "name": "适应水场",
+                "level": 1
+            }]
+        }, {
+            "name": "泥鱼龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "冰耐性",
+                "level": 2
+            }]
+        }, {
+            "name": "泥鱼龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "集中",
+                "level": 2
+            }]
+        }]
+    }, {
+        "name": "泥鱼龙β",
+        "resist": [-1, 2, -3, 0, 0],
+        "contains": [{
+            "name": "泥鱼龙头盔β",
+            "part": "头",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "适应水场",
+                "level": 1
+            }]
+        }, {
+            "name": "泥鱼龙铠甲β",
+            "part": "胸",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "泥耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "泥鱼龙腕甲β",
+            "part": "手",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "水属性攻击强化",
+                "level": 2
+            }]
+        }, {
+            "name": "泥鱼龙腰甲β",
+            "part": "腰",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "冰耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "泥鱼龙护腿β",
+            "part": "腿",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "集中",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "飞雷龙α",
+        "resist": [0, -3, 3, 0, 0],
+        "contains": [{
+            "name": "飞雷龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "体术",
+                "level": 2
+            }]
+        }, {
+            "name": "飞雷龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "跳跃铁人",
+                "level": 1
+            },{
+                "name": "回避距离UP",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "回避距离UP",
+                "level": 2
+            }]
+        }, {
+            "name": "飞雷龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "雷属性攻击强化",
+                "level": 2
+            },{
+                "name": "雷耐性",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "雷耐性",
+                "level": 2
+            },{
+                "name": "体术",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "飞雷龙β",
+        "resist": [0, -3, 3, 0, 0],
+        "contains": [{
+            "name": "飞雷龙头盔β",
+            "part": "头",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "体术",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙铠甲β",
+            "part": "胸",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "跳跃铁人",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙腕甲β",
+            "part": "手",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "回避距离UP",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙腰甲β",
+            "part": "腰",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "雷属性攻击强化",
+                "level": 1
+            }]
+        }, {
+            "name": "飞雷龙护腿β",
+            "part": "腿",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "雷耐性",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "浮空龙α",
+        "resist": [-3, 2, 0, 1, 0],
+        "contains": [{
+            "name": "浮空龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "耐力急速回复",
+                "level": 2
+            }]
+        }, {
+            "name": "浮空龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "骑乘名人",
+                "level": 1
+            },{
+                "name": "炮术",
+                "level": 1
+            }]
+        }, {
+            "name": "浮空龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "炮术",
+                "level": 2
+            }]
+        }, {
+            "name": "浮空龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "精灵加护",
+                "level": 2
+            }]
+        }, {
+            "name": "浮空龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "风压耐性",
+                "level": 1
+            },{
+                "name": "耐力急速回复",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "浮空龙β",
+        "resist": [-3, 2, 0, 1, 0],
+        "contains": [{
+            "name": "浮空龙头盔β",
+            "part": "头",
+            "slots": [0, 1, 0],
+            "skills": [{
+                "name": "耐力急速回复",
+                "level": 1
+            }]
+        }, {
+            "name": "浮空龙铠甲β",
+            "part": "胸",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "骑乘名人",
+                "level": 1
+            }]
+        }, {
+            "name": "浮空龙腕甲β",
+            "part": "手",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "炮术",
+                "level": 1
+            }]
+        }, {
+            "name": "浮空龙腰甲β",
+            "part": "腰",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "精灵加护",
+                "level": 1
+            }]
+        }, {
+            "name": "浮空龙护腿β",
+            "part": "腿",
+            "slots": [2, 0, 0],
+            "skills": [{
+                "name": "风压耐性",
+                "level": 1
+            }]
+        }]
+    }, {
+        "name": "雌火龙α",
+        "resist": [2, 0, -2, 0, -3],
+        "contains": [{
+            "name": "雌火龙头盔α",
+            "part": "头",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "体力增强",
+                "level": 2
+            },{
+                "name": "毒属性强化",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙铠甲α",
+            "part": "胸",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "植生学",
+                "level": 2
+            },{
+                "name": "体力回复量UP",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙腕甲α",
+            "part": "手",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "毒属性强化",
+                "level": 2
+            }]
+        }, {
+            "name": "雌火龙腰甲α",
+            "part": "腰",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "毒耐性",
+                "level": 2
+            },{
+                "name": "体力增强",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙护腿α",
+            "part": "腿",
+            "slots": [0, 0, 0],
+            "skills": [{
+                "name": "体力回复量UP",
+                "level": 2
+            }]
+        }]
+    }, {
+        "name": "雌火龙β",
+        "resist": [2, 0, -2, 0, -3],
+        "contains": [{
+            "name": "雌火龙头盔β",
+            "part": "头",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "体力增强",
+                "level": 1
+            },{
+                "name": "毒属性强化",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙铠甲β",
+            "part": "胸",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "植生学",
+                "level": 1
+            },{
+                "name": "体力回复量UP",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙腕甲β",
+            "part": "手",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "毒属性强化",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙腰甲β",
+            "part": "腰",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "毒耐性",
+                "level": 1
+            },{
+                "name": "体力增强",
+                "level": 1
+            }]
+        }, {
+            "name": "雌火龙护腿β",
+            "part": "腿",
+            "slots": [1, 0, 0],
+            "skills": [{
+                "name": "体力回复量UP",
+                "level": 1
+            }]
+        }]
+    }, {
         "name": "火龙α",
         "resist": [3, 1, -2, 1, -3],
         "contains": [{
